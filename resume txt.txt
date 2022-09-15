@@ -1,0 +1,97 @@
+<html>
+<title>Web Resume</title>
+<head>
+  <style>
+
+  h1 {
+    font-size: 50px;
+  }
+
+  p.small {
+    line-height: 0px;
+  }
+  p.medium {
+    line-height: 50px;
+  }
+  body {
+  background-image: url(https://wallpaperaccess.com/full/1668871.jpg);
+  background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+  }
+</style>
+<body>
+  <font face = courier new>
+    <hr style="height:4px;border-width:0;color:gray;background-color:black">
+<img src="https://scontent.fcrk3-2.fna.fbcdn.net/v/t39.30808-6/301405329_3274233802851944_4454667382641712398_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFp0MIQlHogSWUgLLxrcAJdH5RdZ6u9TgIflF1nq71OAi_MirkqmSoX45kfA2RifQJgN2HHEMc4PuglL2OEmLpk&_nc_ohc=2senZbeQHfYAX-OKUp1&tn=bcT5bqFJaSQsYKMW&_nc_ht=scontent.fcrk3-2.fna&oh=00_AT8f2-sGekYvyD6uJvopGrVjN9ZZ-ZZc8EZkLJw4aXAoXw&oe=6325B654" alt="Trulli" width="170" height="170">
+      <font face = courier new>
+        <p>
+          <h2>Noli Mark T. Corpuz</h2>
+          <p class = small> <strong>
+          Location:  Brgy, 14 San Gregorio, San Nicolas Ilocos Norte
+  <p class = small> <strong>
+    Mobile Number: 09266557823
+  <p class = small> <strong>
+  Email: nolicorpuz@dwcl.edu.ph
+<hr style="height:4px;border-width:0;color:gray;background-color:black">
+  <u><h2 align = center><strong>Personal Data</strong></h2></u>
+  </p>
+  <p>
+<p class = small> >&#160&#160&#160
+  Date of Birth : June 26, 2001
+<p class = small> >&#160&#160&#160
+Place of Birth : San Nicolas Ilocos Norte
+ <p class = small> >&#160&#160&#160
+Civil Status : Single
+ <p class = small> >&#160&#160&#160
+   Citizenship : Filipino
+    <p class = small> >&#160&#160&#160
+      Religion : Catholic
+       <p class = small> >&#160&#160&#160
+         Height : 5 feet 7 inches
+          <p class = small> >&#160&#160&#160
+            weight : 62KG
+             <p class = small> >&#160&#160&#160
+               Father's Name : Nestor S. Corpuz
+                <p class = small> >&#160&#160&#160
+                  Mother's Name : Myrna T. Corpuz
+</p>
+<p>
+  <br>
+  <u><h2 align = center><strong>Educational Background</strong></h2></u>
+<p class = small> >&#160&#160&#160
+
+  Primary :<p class = small> >&#160&#160&#160
+    San Nicolas Elementary School(Grade 1 and 2)
+   <p class = small> >&#160&#160&#160
+   Filipinas West Elementary School(Grade 3 to 6)
+     <p class = small> >&#160&#160&#160
+    Secondary : San Nicolas National Highschool
+    <p class = small> >&#160&#160&#160
+      College : Divine Word College of Laoag(CURRENT)
+    </p>
+    <p>
+      <br>
+      <u><h2 align = center><strong>Skills and Experience</strong></h2></u>
+<h2><em>Computer Skills</em></h2>
+      <p class = small> >&#160&#160&#160
+        Skilled in Computer Troubleshooting
+          <p class = small> >&#160&#160&#160
+            Proficient in HTML Coding
+<p class = small> >&#160&#160&#160
+            Proficient with Microsoft Word, Excel and PowerPoint.
+            <p class = small> >&#160&#160&#160
+Skilled in website troubleshooting.
+<h2><em>Software skills</em></h2>
+<p class = small> >&#160&#160&#160
+  Video Editing
+  <p class = small> >&#160&#160&#160
+Photoshop
+<hr style="height:4px;border-width:0;color:gray;background-color:black">
+    </table>
+
+
+
+</head>
+</body>
+</html>
